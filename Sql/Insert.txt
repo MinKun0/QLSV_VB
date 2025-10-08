@@ -1,0 +1,37 @@
+use QLSinhVien
+
+INSERT INTO Lop 
+VALUES
+('L01', N'Công nghệ phần mềm', N'Công nghệ thông tin'),
+('L02', N'Hệ thống thông tin', N'Công nghệ thông tin'),
+('L03', N'Kế toán tổng hợp', N'Kế toán'),
+('L04', N'Quản trị doanh nghiệp', N'Quản trị kinh doanh'),
+('L05', N'Kỹ thuật phần mềm', N'Công nghệ thông tin');
+
+INSERT INTO SinhVien 
+VALUES
+('SV001', N'Nguyễn Văn An', '2006-03-15', N'Nam', N'Hà Nội', 'L01'),
+('SV002', N'Hoàng Thị Bích', '2006-11-21', N'Nữ', N'TP.HCM', 'L03'),
+('SV003', N'Lê Văn Cường', '2006-07-10', N'Nam', N'Hải Phòng', 'L02'),
+('SV004', N'Phạm Thị Dung', '2006-01-05', N'Nữ', N'Nghệ An', 'L04'),
+('SV005', N'Trần Văn Huy', '2006-09-09', N'Nam', N'Đà Nẵng', 'L05');
+
+INSERT INTO MonHoc 
+VALUES
+('MH01', N'Cơ sở dữ liệu', 3),
+('MH02', N'Mạng máy tính', 3),
+('MH03', N'Kế toán tài chính', 3),
+('MH04', N'Marketing căn bản', 2),
+('MH05', N'Lập trình cấu trúc', 2);
+
+INSERT INTO DIEM 
+VALUES 
+('SV001', 'MH01', 8.0, 7.5),
+('SV002', 'MH03', 8.5, 8.0),
+('SV003', 'MH02', 7.5, 7.0),
+('SV004', 'MH04', 8.0, 8.0),
+('SV005', 'MH05', 7.5, 7.5);
+
+INSERT INTO Users
+VALUES
+('Admin', 'Admin123');
