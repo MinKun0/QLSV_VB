@@ -1,0 +1,15 @@
+D:\Visual Studio\QLSV\QLSV\obj\Debug\QLSV.vbproj.AssemblyReference.cache
+D:\Visual Studio\QLSV\QLSV\obj\Debug\QLSV.frmQLSV.resources
+D:\Visual Studio\QLSV\QLSV\obj\Debug\QLSV.frmSinhVien.resources
+D:\Visual Studio\QLSV\QLSV\obj\Debug\QLSV.Resources.resources
+D:\Visual Studio\QLSV\QLSV\obj\Debug\QLSV.vbproj.GenerateResource.cache
+D:\Visual Studio\QLSV\QLSV\obj\Debug\QLSV.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\Visual Studio\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\Visual Studio\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\Visual Studio\QLSV\QLSV\bin\Debug\QLSV.xml
+D:\Visual Studio\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\Visual Studio\QLSV\QLSV\obj\Debug\QLSV.xml
+D:\Visual Studio\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\Visual Studio\QLSV\QLSV\obj\Debug\QLSV.exe.config
+D:\Visual Studio\QLSV\QLSV\obj\Debug\QLSV.Login.resources
